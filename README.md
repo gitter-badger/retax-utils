@@ -1,5 +1,7 @@
 # Retax-Utils
 
+[![Join the chat at https://gitter.im/hourliert/retax-utils](https://badges.gitter.im/hourliert/retax-utils.svg)](https://gitter.im/hourliert/retax-utils?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/hourliert/retax][gitter-badge]][gitter-link]
 [![Build Status][travis-badge]][travis-link]
 [![Version][version-badge]][version-link]
